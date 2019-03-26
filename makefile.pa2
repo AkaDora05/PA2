@@ -1,0 +1,4 @@
+all:
+	#compile filecnt and filedisp
+	gcc version.c filecnt.c -o filecnt
+	gcc filedisp.c -o filedisp

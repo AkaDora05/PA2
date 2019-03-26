@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1551667309 source:/home/eunjun/Documents/UNIX/PA2/filecnt/filecnt/main.c
+	<stdio.h>
+	<stdlib.h>
+	<dirent.h>
+	<sys/stat.h>
+	<string.h>
+
+1551673277 source:/home/eunjun/Documents/UNIX/PA2/filedisp/filedisp/main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+

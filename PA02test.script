@@ -1,0 +1,15 @@
+Script started on 2019-03-04 21:47:41-0600
+]0;onii-chan@eunjun-UX430UQ: ~/Documents/UNIX/PA2[01;32monii-chan@eunjun-UX430UQ[00m:[01;34m~/Documents/UNIX/PA2[00m$ exit./filecnt /usr/share | ./filedisp -d
+The total number of directories in /usr/share is: 7946
+]0;onii-chan@eunjun-UX430UQ: ~/Documents/UNIX/PA2[01;32monii-chan@eunjun-UX430UQ[00m:[01;34m~/Documents/UNIX/PA2[00m$ ./filecnt /usr/share | ./filedisp -d[Kf
+The total number of files in /usr/share is: 92570
+]0;onii-chan@eunjun-UX430UQ: ~/Documents/UNIX/PA2[01;32monii-chan@eunjun-UX430UQ[00m:[01;34m~/Documents/UNIX/PA2[00m$ ./filecnt /usr/share | ./filedisp -f[Kb
+The total number of bytes occupied by all files in /usr/share is: 1596206362
+]0;onii-chan@eunjun-UX430UQ: ~/Documents/UNIX/PA2[01;32monii-chan@eunjun-UX430UQ[00m:[01;34m~/Documents/UNIX/PA2[00m$ ./filecnt /usr/share | ./filedisp -b[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K~ |[K[K
+The total number of directories in /home/eunjun is: 521
+The total number of files in /home/eunjun is: 13274
+The total number of bytes occupied by all files in /home/eunjun is: 1296807628
+]0;onii-chan@eunjun-UX430UQ: ~/Documents/UNIX/PA2[01;32monii-chan@eunjun-UX430UQ[00m:[01;34m~/Documents/UNIX/PA2[00m$ exit
+exit
+
+Script done on 2019-03-04 21:48:29-0600
